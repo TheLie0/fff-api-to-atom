@@ -1,0 +1,3 @@
+[submodule "python-feedgen"]
+	path = python-feedgen
+	url = https://github.com/TheLie0/python-feedgen.git
